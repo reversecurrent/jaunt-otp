@@ -1,0 +1,5 @@
+*.jar
+*.txt
+lucene
+graphs
+.DS_STORE
